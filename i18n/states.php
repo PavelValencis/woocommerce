@@ -1170,7 +1170,7 @@ return array(
 	),
 	'PE' => array( // Peru states.
 		'CAL' => __( 'El Callao', 'woocommerce' ),
-		'LMA' => __( 'Municipalidad Metropolitana de Lima', 'woocommerce' ),
+		'LMA' => __( 'Lima Metropolitana', 'woocommerce' ),
 		'AMA' => __( 'Amazonas', 'woocommerce' ),
 		'ANC' => __( 'Ancash', 'woocommerce' ),
 		'APU' => __( 'Apurímac', 'woocommerce' ),
